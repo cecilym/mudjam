@@ -19,6 +19,7 @@
   "author": "Eric Elliott",
   "license": "MIT",
   "dependencies": {
-    "stampit": "~0.3.3"
+    "stampit": "~0.3.3",
+    "grunt": "~0.4.1"
   }
 }
