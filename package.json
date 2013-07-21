@@ -17,5 +17,8 @@
     "game"
   ],
   "author": "Eric Elliott",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "stampit": "~0.3.3"
+  }
 }
